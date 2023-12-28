@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testproject.TrialTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-28T02:13:53" hostname="LAPTOP-59B3SNOC" time="0.008">
+  <properties/>
+  <testcase name="testInitialState()" classname="testproject.TrialTest" time="0.002"/>
+  <testcase name="testMultipleAdditions()" classname="testproject.TrialTest" time="0.002"/>
+  <testcase name="testSingleAddition()" classname="testproject.TrialTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
